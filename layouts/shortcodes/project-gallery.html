@@ -8,3 +8,15 @@
   </figure>
   {{ end }}
 </div>
+<dialog class="project-gallery-dialog" aria-label="Enlarged photograph">
+  <button type="button" class="project-gallery-dialog__close" autofocus>Close <span aria-hidden="true">&times;</span></button>
+  <figure>
+    <img alt="">
+    <figcaption></figcaption>
+  </figure>
+</dialog>
+{{ if not (.Page.Scratch.Get "project-gallery-script") }}
+  {{ .Page.Scratch.Set "project-gallery-script" true }}
+  {{ $script := resources.Get "js/project-gallery.js" | fingerprint }}
+  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
+{{ end }}
