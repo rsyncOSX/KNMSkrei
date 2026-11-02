@@ -1,0 +1,10 @@
+<div class="project-gallery">
+  {{ range hugo.Data.project_photos }}
+  <figure>
+    <a href="{{ printf "images/skrei/%s.jpg" .id | relURL }}" aria-label="{{ printf "Open larger photograph: %s" .caption }}">
+      <img src="{{ printf "images/skrei/%s-thumb.jpg" .id | relURL }}" alt="{{ .caption }}" loading="lazy" decoding="async" width="640" height="480">
+    </a>
+    <figcaption>{{ .caption }} <span class="project-gallery-reference">{{ .id }}</span></figcaption>
+  </figure>
+  {{ end }}
+</div>

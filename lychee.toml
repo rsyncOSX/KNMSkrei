@@ -1,0 +1,5 @@
+# Optional: lychee public/**/*.html
+cache = true
+no_progress = true
+extensions = ["html"]
+index_files = ["index.html"]

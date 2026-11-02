@@ -1,0 +1,30 @@
+{
+  "name": "knm-skrei-documentation",
+  "version": "0.1.0",
+  "description": "English documentation of the KNM Skrei engine department restoration.",
+  "author": "KNM Skrei engine department restoration project",
+  "license": "Apache-2.0",
+  "workspaces": [
+    "packages/hugoautogen"
+  ],
+  "scripts": {
+    "build": "node scripts/hugo.mjs --minify --cleanDestinationDir",
+    "build:production": "node scripts/hugo.mjs --minify --cleanDestinationDir",
+    "build:preview": "node scripts/hugo.mjs --minify --cleanDestinationDir --baseURL \"${DEPLOY_PRIME_URL:-/}\"",
+    "serve": "node scripts/hugo.mjs server --buildDrafts",
+    "update:docsy:pack": "hugo mod npm pack"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.4",
+    "postcss-cli": "^11.0.1",
+    "sass-embedded": "^1.107.1"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "private": true,
+  "prettier": {
+    "proseWrap": "always",
+    "singleQuote": true
+  }
+}

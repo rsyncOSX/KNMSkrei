@@ -1,0 +1,70 @@
+# Set baseURL to the final public address before deployment.
+baseURL: /
+title: KNM Skrei — Engine Department Restoration
+contentDir: content/en
+defaultContentLanguage: en
+enableRobotsTXT: true
+enableGitInfo: false
+languages:
+  en:
+    locale: en-GB
+    label: English
+    title: KNM Skrei
+    params:
+      description: Documenting the restoration of the engine department of RNoN Skrei, Norway, and its Napier Deltic engines.
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
+  highlight:
+    style: tango
+    noClasses: false
+outputs:
+  home: [HTML, RSS]
+  section: [HTML, RSS]
+params:
+  description: The engine department restoration of RNoN Skrei (KNM Skrei), documented in English for international collaboration.
+  offlineSearch: true
+  prism_syntax_highlighting: false
+  copyright:
+    authors: KNM Skrei engine department restoration project
+    from_year: 2026
+    to_year: present
+  ui:
+    navbar_logo: false
+    sidebar_menu_foldable: true
+    sidebar_menu_compact: false
+    breadcrumb_disable: false
+    showLightDarkModeMenu: true
+    feedback:
+      enable: false
+    readingtime:
+      enable: false
+  links:
+    user:
+      - name: KNM Skreis Venneforening
+        url: https://knmskrei.no/
+        icon: fa-solid fa-anchor
+        desc: The vessel’s friends association (Norwegian).
+      - name: Napier Power Heritage Trust
+        url: https://npht.org/
+        icon: fa-solid fa-gears
+        desc: Napier engine heritage and research.
+module:
+  mounts:
+    - source: static/images
+      target: static/images
+    - source: static/favicon.svg
+      target: static/favicon.svg
+    - source: static/favicon.ico
+      target: static/favicon.ico
+    - source: static/apple-touch-icon.png
+      target: static/apple-touch-icon.png
+  hugoVersion:
+    extended: true
+    min: 0.164.0
+  imports:
+    - path: github.com/docsy/docsy/theme
