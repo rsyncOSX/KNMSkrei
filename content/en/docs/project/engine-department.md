@@ -97,7 +97,6 @@ Confirm the installed arrangement before specifying repairs. For each system, pr
 - Inspect portable pumps, hoses, adapters, emergency lighting and communications used for flooding response.
 - Prepare a damage-control plan showing compartments, isolation points, pumping routes and equipment locations.
 - Inventory leak-stopping materials, plugs, patches and shoring equipment. Develop shoring arrangements with competent advice, including suitable structural reaction points.
-- Confirm whether the original note “tuliplan klubben” refers to a particular club resource, drawing or contact before adding it as a project reference.
 
 ## Other machinery and services to confirm
 
