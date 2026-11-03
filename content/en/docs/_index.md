@@ -14,6 +14,8 @@ This website is a private documentation project. For the official documentation 
 This is the English documentation for the restoration of the engine department of **HNoMS Skrei (KNM Skrei)**.
 
 - [Restoration project](project/): engine department work scope, baseline survey, planning and verification.
+- [Main engines](main-engines/): Napier Deltic T18-37K identification and machinery records.
+- [Auxiliary machinery](auxiliary-machinery/): auxiliary engines, HANSA generators and associated equipment.
 - [Some photos November 2026](images/): photographs of Skrei before restoration.
 - [Napier heritage links](links/): English-language research and reference material.
 - [Other Deltic restoration projects](other-restoration-projects/): engine rebuilds, related marine projects and links to their records.

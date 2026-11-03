@@ -1,0 +1,60 @@
+---
+title: "Auxiliary machinery"
+weight: 25
+description: "Photographic identification of auxiliary engines, HANSA generators and associated machinery."
+---
+
+The auxiliary machinery supports electrical generation and other engine-department services aboard HNoMS Skrei. This page distinguishes readable nameplate information from provisional visual identifications. Each installed set needs its own equipment record.
+
+## Auxiliary diesel engines
+
+The engines in photographs IMG_2398 and IMG_2410 appear to be older four-cylinder diesel engines with inline injection pumps. **A Perkins P4 marine variant, possibly P4(M), is a provisional identification only.** No readable engine identification plate has yet been documented here, so the manufacturer, exact model and serial numbers remain to be confirmed.
+
+![Auxiliary diesel engine and connected machinery](/images/skrei/IMG_2398.jpg)
+
+*IMG_2398: auxiliary engine installation. Engine model and location to be confirmed.*
+
+![Auxiliary engine, generator and belt-driven machinery](/images/skrei/IMG_2410.jpg)
+
+*IMG_2410: an auxiliary machinery installation showing a diesel engine, generator and an apparent belt-driven compressor. The photographs alone do not establish whether every view shows a different set.*
+
+## HANSA generator identification
+
+The nameplate in **IMG_2409** identifies a **HANSA SG 25 4** generator. The following values are transcribed from the photograph and apply to that photographed unit; they should not be assigned to another generator without checking its plate.
+
+| Nameplate field | Photographic reading |
+| --- | --- |
+| Manufacturer | HANSA — Motorenfabrik Gustav Altmann |
+| Location | Hamburg-Bahrenfeld |
+| Type | SG 25 4 |
+| Apparent power | 26 kVA |
+| Voltage | 440 V |
+| Current | 34.1 A |
+| Frequency | 60 Hz |
+| Speed | 1,800 rpm |
+| Power factor, cos φ | 0.8 |
+| Serial number | To be verified from a closer photograph |
+
+The voltage, current and apparent-power figures are consistent with a three-phase generator. At the stated power factor, 26 kVA corresponds to **20.8 kW** of electrical real power; this is a calculation from the plate values, not an auxiliary-engine power rating.
+
+![HANSA generator nameplate showing type and electrical ratings](/images/skrei/IMG_2409.jpg)
+
+*IMG_2409: generator identification plate. A separate record is needed for each installed generator, including its port or starboard location.*
+
+## Associated machinery
+
+A belt-driven machine mounted above the generator in IMG_2410 appears to be an air compressor. Its manufacturer, model, rated pressure and capacity remain unconfirmed pending a readable plate and tracing of its connections.
+
+![Lower auxiliary machinery installation and adjacent pump](/images/skrei/IMG_2411.jpg)
+
+*IMG_2411: lower installation and adjacent pumping equipment. Pump identity, duty and connections remain to be recorded.*
+
+## Next identification and survey work
+
+- Record the number and location of auxiliary sets and assign a unique identifier to each engine, generator, compressor and pump.
+- Photograph each engine plate and stamped engine number, each generator plate and each compressor or pump plate.
+- Trace electrical outputs, belt drives, cooling, fuel, exhaust and compressed-air connections to establish each machine’s duty.
+- Obtain matching manuals, wiring diagrams, parts lists and service records.
+- Establish operating hours, last use, overhaul history, preservation measures and current condition.
+
+Use these records to develop the auxiliary-engine, electrical and compressed-air work packages in the [engine department work scope](../project/engine-department/), following the [baseline and verification plan](../project/planning-and-verification/).

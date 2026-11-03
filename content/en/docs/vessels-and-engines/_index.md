@@ -16,7 +16,7 @@ The Deltic is a two-stroke, opposed-piston diesel engine. Three banks of cylinde
 
 The [Napier Power Heritage Trust’s Deltic history](https://npht.org/about-napier/products/marine-engines/deltic/) explains the marine requirement and the engine’s development. Skrei’s friends association also describes how the Deltic influenced Linge’s vessel concept in its [historical account](https://knmskrei.no/?page_id=73).
 
-The exact engine variants, identification plates and installed equipment aboard Skrei will be documented during the restoration. General engine-family descriptions should not be treated as specifications for the installed machinery.
+Skrei’s main engines have been identified by the project contributor as Napier Deltic T18-37K. See [Main engines](../main-engines/) for the recorded number 534, the photographed casing plate and modification markings, and [Auxiliary machinery](../auxiliary-machinery/) for generator nameplate readings and provisional engine identification. General engine-family descriptions should not be treated as specifications for the installed machinery.
 
 ## Further references
 
