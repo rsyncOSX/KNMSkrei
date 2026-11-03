@@ -28,6 +28,12 @@ The photographed plate is headed **MAIN GEAR CASING**. Its serial number should 
 
 *Identification photograph IMG_2400. The modification inscription is transcribed as supplied by the contributor; the associated modification bulletins and their applicability have not yet been verified.*
 
+## Reported class rating and transmission
+
+The [Norwegian Wikipedia class specifications](https://no.wikipedia.org/wiki/Tjeld-klassen#Spesifikasjoner), checked on 3 November 2026, list two T 18-37K engines, each producing **3,100 HK (metric horsepower) at 2,100 rpm**, with a **1.8574:1 reduction ratio**. Verify these figures against the manuals and plates for Skrei’s installed engines and gearboxes before using them as operating limits.
+
+The same source mentions an **18° V-drive**, but places that statement beneath auxiliary machinery. Its association with the installed propulsion arrangement remains to be confirmed from drawings and inspection; do not assign it to the auxiliary sets from that placement alone.
+
 ## Installation photographs
 
 ![Main engine installation with connected pipework and cabling](/images/skrei/IMG_2392.jpg)
@@ -39,6 +45,8 @@ The photographed plate is headed **MAIN GEAR CASING**. Its serial number should 
 *IMG_2406: access between the main engines.*
 
 ## Records to complete for each engine
+
+The main engines use compressed-air starting, as confirmed by the project contributor on 3 November 2026. Verify each engine’s air supply, starting equipment and controls using the [compressed-air system checklist](../compressed-air/); the installed starting arrangement and operating limits remain to be documented.
 
 - Photograph the engine identification, main gear casing plate and all modification or overhaul plates; record port or starboard location.
 - Confirm the complete engine number, build date, configuration and the identity of major replaceable assemblies.

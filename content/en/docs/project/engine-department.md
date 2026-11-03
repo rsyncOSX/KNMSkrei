@@ -65,10 +65,12 @@ Confirm the installed arrangement before specifying repairs. For each system, pr
 
 ## Starting and compressed air
 
-- Confirm whether each engine uses electric starting, air starting or another arrangement.
-- For electric starting, assess batteries, securing, ventilation, chargers, isolation, starter motors and high-current cables.
-- For air starting, survey compressors, receivers, pipework, drains, non-return valves, starting valves, gauges and protective devices.
-- Record receiver identification, rated pressure, inspection history and certificates. Have a competent specialist determine applicable inspection, testing and certification requirements before pressurisation.
+Both the main propulsion engines and the auxiliary engines use compressed-air starting, as confirmed by the project contributor on 3 November 2026. The detailed arrangement, component condition and operating limits still require verification aboard.
+
+- Follow the [compressed-air system survey and verification checklist](../../compressed-air/) for every compressor, receiver, distribution branch, starting assembly and other air consumer.
+- Trace the supply to each main and auxiliary engine, including shared receivers, isolation, non-return protection and local or remote starting controls.
+- Establish how starting air is replenished from a depleted system, including how the first auxiliary engine can be started and which compressors depend on running engines or electrical power.
+- Record component identification, ratings, inspection history and certificates. Have a competent specialist determine inspection, testing and certification requirements before pressurisation; use the applicable manuals to define acceptance criteria.
 
 ## Machinery controls, instruments and alarms
 
