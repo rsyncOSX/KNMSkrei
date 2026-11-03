@@ -11,7 +11,7 @@ languages:
     label: English
     title: KNM Skrei
     params:
-      description: Documenting the restoration of the engine department of RNoN Skrei, Norway, and its Napier Deltic engines.
+      description: Documenting the restoration of the engine department of HNoMS Skrei, Norway, and its Napier Deltic engines.
 markup:
   goldmark:
     parser:
@@ -26,7 +26,7 @@ outputs:
   home: [HTML, RSS]
   section: [HTML, RSS]
 params:
-  description: The engine department restoration of RNoN Skrei (KNM Skrei), documented in English for international collaboration.
+  description: The engine department restoration of HNoMS Skrei (KNM Skrei), documented in English for international collaboration.
   offlineSearch: true
   prism_syntax_highlighting: false
   copyright:

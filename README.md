@@ -1,6 +1,6 @@
 # KNM Skrei restoration documentation
 
-English-language documentation of the Norwegian engine department restoration project for RNoN Skrei (KNM Skrei).
+English-language documentation of the Norwegian engine department restoration project for HNoMS Skrei (KNM Skrei).
 
 ## Build and preview
 
@@ -18,7 +18,7 @@ Set `baseURL` in `hugo.yaml` to the confirmed public website URL before publishi
 
 ## Add documentation
 
-English content lives in `content/en/`. The `docs/project/` and `docs/history/` sections are intentionally placeholders. Add dated Markdown pages under `docs/project/` as work proceeds, with a title, date, description and source photographs or references. Record observations separately from proposed work and completed work.
+English content lives in `content/en/`. The `docs/project/` section contains the proposed work scope and planning framework. Add dated Markdown pages under `docs/project/` as work proceeds, with a title, date, description and source photographs or references. Record observations separately from proposed work and completed work.
 
 ## Photographs
 

@@ -11,9 +11,9 @@ description: "The project record, photographs and background references."
 This website is a private documentation project. For the official documentation of KNM Skrei, visit [Marinens Veteranskip](https://www.marinensveteranskip.no).
 {{% /alert %}}
 
-This is the English documentation for the restoration of the engine department of **RNoN Skrei (KNM Skrei)**.
+This is the English documentation for the restoration of the engine department of **HNoMS Skrei (KNM Skrei)**.
 
-- [Project log](project/): the restoration record as work progresses.
+- [Restoration project](project/): engine department work scope, baseline survey, planning and verification.
 - [Some photos November 2026](images/): photographs of Skrei before restoration.
 - [Napier heritage links](links/): English-language research and reference material.
 - [Other Deltic restoration projects](other-restoration-projects/): engine rebuilds, related marine projects and links to their records.

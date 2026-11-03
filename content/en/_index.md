@@ -1,6 +1,6 @@
 ---
 title: KNM Skrei
-description: Restoring the engine department of RNoN Skrei and documenting its Napier Deltic engines.
+description: Restoring the engine department of HNoMS Skrei and documenting its Napier Deltic engines.
 ---
 
 {{< blocks/cover title="KNM Skrei" height="auto" >}}
@@ -12,7 +12,7 @@ description: Restoring the engine department of RNoN Skrei and documenting its N
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-This website records the restoration of the engine department of **RNoN Skrei**, known in Norwegian as **KNM Skrei**. The work will prepare the engine department for sea trials as part of the wider effort to make Skrei seaworthy again. Documentation is in English to support collaboration with the English Napier heritage community.
+This website records the restoration of the engine department of **HNoMS Skrei**, known in Norwegian as **KNM Skrei**. The work will prepare the engine department for sea trials as part of the wider effort to make Skrei seaworthy again. Documentation is in English to support collaboration with the English Napier heritage community.
 {{% /blocks/lead %}}
 
 {{% blocks/section color="white" %}}
