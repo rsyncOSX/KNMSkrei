@@ -42,18 +42,18 @@ for i in 0..<4 {
  rect(ox,oy,750,53,NSColor(calibratedRed:0.87,green:0.94,blue:0.93,alpha:1))
  text(titles[i],ox+20,oy+9,28,true)
  let sx=ox+155, sy=oy+155, length=440.0
- let inlet=sx+100, exhaust=sx+340
- let l=[sx+190,sx+190,sx+122,sx+70][i]
- let r=[sx+245,sx+245,sx+370,sx+370][i]
+ let exhaust=sx+100, inlet=sx+340
+ let l=[sx+195,sx+195,sx+70,sx+70][i]
+ let r=[sx+250,sx+250,sx+318,sx+370][i]
  rect(sx,sy,length,96,NSColor(calibratedWhite:0.97,alpha:1))
  rect(l,sy,r-l,96,i<2 ? NSColor(calibratedRed:0.9,green:0.95,blue:0.95,alpha:1) : i==2 ? NSColor(calibratedRed:1,green:0.85,blue:0.53,alpha:1) : NSColor(calibratedRed:0.78,green:0.94,blue:0.91,alpha:1))
  // Fixed wall apertures and ducts, with no opening into the rod space.
- line(sx,sy,inlet-14,sy,teal,6);line(inlet+14,sy,exhaust-14,sy,teal,6);line(exhaust+14,sy,sx+length,sy,teal,6)
+ line(sx,sy,exhaust-14,sy,teal,6);line(exhaust+14,sy,inlet-14,sy,teal,6);line(inlet+14,sy,sx+length,sy,teal,6)
  line(sx,sy+96,sx+length,sy+96,teal,6)
  for port in [inlet,exhaust] {line(port-14,sy-42,port-14,sy,teal,3);line(port+14,sy-42,port+14,sy,teal,3)}
  piston(l,sy,true);piston(r,sy,false)
- text("Inlet: \(i==3 ? "open" : "closed")",sx+25,oy+83,21,true)
- text("Exhaust: \(i>=2 ? "open" : "closed")",sx+255,oy+83,21,true)
+ text("Inlet: \(i==3 ? "open" : "closed")",sx+255,oy+83,21,true)
+ text("Exhaust: \(i>=2 ? "open" : "closed")",sx+25,oy+83,21,true)
  if i==0 {arrow(l-35,sy+123,l+5,sy+123,navy);arrow(r+35,sy+123,r-5,sy+123,navy)}
  if i==1 {
   let mid=(l+r)/2;line(mid,sy-44,mid,sy+12,navy,5);text("Fuel",mid-20,oy+110,18)
@@ -61,7 +61,7 @@ for i in 0..<4 {
   arrow(l+5,sy+123,l-35,sy+123,navy);arrow(r-5,sy+123,r+35,sy+123,navy)
  }
  if i>=2 {arrow(exhaust,sy+45,exhaust,sy-40,coral)}
- if i==3 {arrow(inlet,sy-40,inlet,sy+48,teal);arrow(inlet+10,sy+48,exhaust-22,sy+48,teal)}
+ if i==3 {arrow(inlet,sy-40,inlet,sy+48,teal);arrow(inlet-10,sy+48,exhaust+22,sy+48,teal)}
  text(captions[i][0],ox+23,oy+291,23);text(captions[i][1],ox+23,oy+321,23)
 }
 text("The exhaust piston leads the inlet piston by 20° of crankshaft rotation.",70,961,28,true)
