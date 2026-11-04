@@ -5,6 +5,7 @@ description: Restoring the engine department of HNoMS Skrei and documenting its 
 
 {{< blocks/cover title="KNM Skrei" height="auto" >}}
 <p class="lead">Engine department restoration · Norway</p>
+<img class="home-vessel-image" src="images/knmskrei.png" alt="KNM Skrei (P380) in profile" width="2710" height="865">
 <p><strong>This website is a private documentation project.</strong> Official documentation of KNM Skrei is available from <a href="https://www.marinensveteranskip.no">Marinens Veteranskip</a>.</p>
 <p>Restoring the engine department as part of returning KNM Skrei to sea.</p>
 <p>One of several projects undertaken by <a href="https://www.marinensveteranskip.no">Marinens Veteranskip</a>.</p>
