@@ -20,6 +20,14 @@ Record:
 
 Distinguish documented facts, personal recollections, assumptions and unknowns. Cite the source and date for each significant historical claim. Missing history should remain visible as an uncertainty rather than being filled in with an estimate presented as fact.
 
+## Register and check the Deltic references
+
+Add the [T18-37K course notes]({{< relref "/docs/T18_37K/T1837K.md" >}}) and their linked source scans to the document register. Record the December 1967 source revision, engine numbers, modification markings and the handbook or bulletin needed to confirm applicability. Retain the PDF filename and page number with measurements, inspection criteria and proposed procedures so another reviewer can trace the source.
+
+[Chapter 13]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-13) distinguishes continuous operation from time-limited maximum power and separates typical readings from operating limits. Preserve those distinctions when preparing a trial sheet. Record source-unit discrepancies and transcription notes as questions for specialist review before selecting acceptance values.
+
+[Chapter 15]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-15) helps identify unit-removal, replacement, phasing and timing dependencies. Use it to plan special tools, lifting access and inspection points; confirm the complete procedure and installed configuration before work.
+
 ## Build the project plan
 
 Use the baseline to create a complete plan, updating it as inspections reveal more information. Each work package should identify its scope, responsible person, dependencies, materials, specialist support, safety arrangements, deliverables and acceptance criteria.
@@ -70,5 +78,7 @@ Keep a separate work record for inspections and repairs, including dates, person
 ## Routine maintenance and preservation
 
 Create calendar-based and running-hour-based maintenance schedules for all relevant machinery and safety systems. Include lubrication, fluid checks, filters, exercising equipment, inspections, calibration and specialist service where required.
+
+For the Deltic engines, use [Chapter 14: Servicing Schedules]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-14) as the historical starting point: daily inspections, 50-, 250- and 500-hour tasks, and annual instrument checks. It describes inspection tolerances as non-cumulative. Transfer applicable tasks into a dated maintenance register with the source page, last completion, next due point and responsible person. Keep installation-component servicing and long-term preservation requirements alongside the engine schedule; the running-hour schedule alone does not establish readiness after lay-up.
 
 Define preservation routines between work sessions and during extended lay-up, using the applicable manuals. Assign responsibility for checks and record completion. Update the maintenance plan after commissioning to reflect the restored configuration and intended operating pattern.

@@ -44,6 +44,11 @@ params:
     readingtime:
       enable: false
   links:
+    developer:
+      - name: GitHub
+        url: https://github.com/rsyncOSX/KNMSkrei
+        icon: fab fa-github
+        desc: Source files and development for this documentation.
     user:
       - name: KNM Skreis Venneforening
         url: https://knmskrei.no/

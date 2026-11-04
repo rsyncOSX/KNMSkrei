@@ -10,6 +10,25 @@ Survey the complete machinery installation, establish what is serviceable and pl
 
 Confirm the installed arrangement before specifying repairs. For each system, produce a diagram, equipment list, condition report, work package and agreed inspection and test criteria. Use the [baseline and verification plan](../planning-and-verification/) to control the work.
 
+## Manual references for work packages
+
+Use the [T18-37K course notes]({{< relref "/docs/T18_37K/T1837K.md" >}}) to identify the main-engine assemblies and prepare inspection questions. Link each work package to the relevant chapter and PDF page, then confirm applicability against the installed engine, official handbook and modification records.
+
+| Work area | Course-note reference |
+| --- | --- |
+| Engine structure, crankshafts, pistons and phasing | [Chapters 1–4]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-1) |
+| Turbo-blower and intake air | [Chapter 5]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-5) |
+| Auxiliary drives, output transmission and bi-directional gearbox | [Chapters 6–7]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-6) |
+| Lubrication | [Chapter 8]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-8) |
+| Cooling | [Chapter 9]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-9) |
+| Fuel system | [Chapter 10]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-10) |
+| Controls, governor, shutdown and clutch selection | [Chapter 11]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-11) |
+| Main-engine starting air and cold starting aid | [Chapter 12]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-12) |
+| Operating data and trial preparation | [Chapter 13]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-13) |
+| Servicing and unit replacement | [Chapters 14–15]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-14) |
+
+The auxiliary drives described in Chapter 6 are engine-mounted drives; they do not identify the separate auxiliary generator engines. Vessel fuel tanks, shafting, electrical distribution, fire systems and other installation equipment require their own records and instructions.
+
 ## Main propulsion engines
 
 - Identify both installed engines and their accessories, configuration, serial numbers and modifications.

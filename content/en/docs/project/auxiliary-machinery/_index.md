@@ -60,6 +60,12 @@ The same class reference lists **two Wilhelm Poppe GmbH WP 2340 S compressors**,
 
 *IMG_2411: lower installation and adjacent pumping equipment. Pump identity, duty and connections remain to be recorded.*
 
+## Relationship to the Deltic manual
+
+The [T18-37K course notes]({{< relref "/docs/T18_37K/T1837K.md" >}}) describe the main propulsion engines and their engine-mounted auxiliaries. They do not confirm the provisional Perkins identification, HANSA generator ratings or the belt-driven compressor aboard Skrei. Obtain separate engine, generator and compressor manuals after identifying each unit.
+
+Use the [compressed-air system survey]({{< relref "/docs/project/compressed-air/_index.md" >}}) to record shared starting-air dependencies. Apply Deltic component descriptions only to the main-engine equipment to which they belong.
+
 ## Next identification and survey work
 
 - Record the number and location of auxiliary sets and assign a unique identifier to each engine, generator, compressor and pump.

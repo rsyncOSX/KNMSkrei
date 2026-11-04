@@ -7,6 +7,14 @@ description: "Survey and verification of starting air for the main and auxiliary
 
 Both the main propulsion engines and the auxiliary engines aboard HNoMS Skrei use **compressed-air starting**, as confirmed by the project contributor on **3 November 2026**. This establishes the starting method; it does not establish the detailed circuit, equipment ratings or present serviceability.
 
+## Main-engine arrangement described in the manual
+
+[Chapter 12: Starting System]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-12) describes direct air starting through six starting valves in **A bank**, supplied through a junction box and air manifold rail. An A-camshaft-driven distributor controls the starting valves. The junction box also supplies the cold starting aid, and a connection from the air manifold rail supplies the starting accumulator described in [Chapter 11]({{< relref "/docs/T18_37K/T1837K.md" >}}#chapter-11).
+
+Use the chapter’s layout and component drawings to compare each installed main engine with the source arrangement. Record the junction-box strainer, manifold, distributor, main and operating-air connections, starting valves, accumulator supply and any cold-starting equipment actually fitted. Keep the starting accumulator’s control-system function distinct from the vessel’s bulk air receivers.
+
+This describes the T18-37K source arrangement. Trace Skrei’s installation before recording it as confirmed, and use the auxiliary engines’ own manuals for their starting equipment. The Deltic notes do not establish the identity or ratings of the vessel’s compressors and receivers.
+
 ## Reported class compressor specification
 
 The [Norwegian Wikipedia class specifications](https://no.wikipedia.org/wiki/Tjeld-klassen#Spesifikasjoner), checked on 3 November 2026, list **two Wilhelm Poppe GmbH compressors, type WP 2340 S**, with a reported capacity of **127.4 l/min at 30.3 bar** each. Treat these as class reference figures pending identification of both installed compressors and confirmation from their plates and manuals.
