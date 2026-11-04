@@ -1,10 +1,13 @@
 ---
 title: "Main engines"
 weight: 20
+aliases: ["/docs/project/scope/main-engines/"]
 description: "Napier Deltic T18-37K main engines: identification, photographs and outstanding records."
 ---
 
-HNoMS Skrei’s main engines are **Napier Deltic model T18-37K**. This page records the installed machinery and the evidence available so far. For the engine family’s background, see [Nasty/Tjeld class and Napier Deltic engines](../vessels-and-engines/).
+HNoMS Skrei’s main engines are **Napier Deltic model T18-37K**. This page records the installed machinery and the evidence available so far. For the engine family’s background, see [Nasty/Tjeld class and Napier Deltic engines]({{< relref "/docs/vessels-and-engines/_index.md" >}}).
+
+The [T18-37K technical manual]({{< relref "/docs/T18_37K/_index.md" >}}) provides illustrated Napier course notes and the original source PDFs.
 
 ## Identification recorded so far
 
@@ -46,7 +49,7 @@ The same source mentions an **18° V-drive**, but places that statement beneath 
 
 ## Records to complete for each engine
 
-The main engines use compressed-air starting, as confirmed by the project contributor on 3 November 2026. Verify each engine’s air supply, starting equipment and controls using the [compressed-air system checklist](../compressed-air/); the installed starting arrangement and operating limits remain to be documented.
+The main engines use compressed-air starting, as confirmed by the project contributor on 3 November 2026. Verify each engine’s air supply, starting equipment and controls using the [compressed-air system checklist]({{< relref "/docs/project/compressed-air/_index.md" >}}); the installed starting arrangement and operating limits remain to be documented.
 
 - Photograph the engine identification, main gear casing plate and all modification or overhaul plates; record port or starboard location.
 - Confirm the complete engine number, build date, configuration and the identity of major replaceable assemblies.
@@ -54,4 +57,4 @@ The main engines use compressed-air starting, as confirmed by the project contri
 - Establish the last running date, total hours, hours since major overhaul, preservation history and previous damage or repairs.
 - Record condition findings and outstanding work separately for each engine.
 
-Inspection and recommissioning work will follow the [engine department work scope](../project/engine-department/) and [baseline, planning and verification process](../project/planning-and-verification/). These identification records do not establish the engines’ present serviceability.
+Inspection and recommissioning work will follow the [engine department work scope]({{< relref "/docs/project/engine-department.md" >}}) and [baseline, planning and verification process]({{< relref "/docs/project/planning-and-verification.md" >}}). These identification records do not establish the engines’ present serviceability.

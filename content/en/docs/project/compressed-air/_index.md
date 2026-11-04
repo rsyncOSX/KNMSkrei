@@ -1,6 +1,7 @@
 ---
 title: "Compressed-air system"
 weight: 30
+aliases: ["/docs/compressed-air/", "/docs/project/scope/compressed-air/"]
 description: "Survey and verification of starting air for the main and auxiliary engines and all connected compressed-air components."
 ---
 
@@ -52,4 +53,4 @@ After the required inspections and repairs, use an approved commissioning plan t
 
 Proceed to controlled starting trials for **each main engine and each auxiliary engine** only after the engine-specific readiness checks are accepted. Record receiver pressure before and after starting, pressure at the engine where specified, recharge performance, control response and any defects. Verify the agreed reserve and recovery arrangements under the trial plan.
 
-Retain signed inspection and test records, certificates, unresolved defects, the updated system diagram, normal valve positions, operating instructions and maintenance intervals. Apply the [baseline and verification process](../project/planning-and-verification/) and link the results to the [engine department work scope](../project/engine-department/#starting-and-compressed-air).
+Retain signed inspection and test records, certificates, unresolved defects, the updated system diagram, normal valve positions, operating instructions and maintenance intervals. Apply the [baseline and verification process]({{< relref "/docs/project/planning-and-verification.md" >}}) and link the results to the [engine department work scope]({{< relref "/docs/project/engine-department.md" >}}#starting-and-compressed-air).

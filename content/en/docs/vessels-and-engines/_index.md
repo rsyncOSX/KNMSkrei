@@ -16,7 +16,7 @@ The Deltic is a two-stroke, opposed-piston diesel engine. Three banks of cylinde
 
 The [Napier Power Heritage Trust’s Deltic history](https://npht.org/about-napier/products/marine-engines/deltic/) explains the marine requirement and the engine’s development. Skrei’s friends association also describes how the Deltic influenced Linge’s vessel concept in its [historical account](https://knmskrei.no/?page_id=73).
 
-Skrei’s main engines have been identified by the project contributor as Napier Deltic T18-37K. See [Main engines](../main-engines/) for the recorded number 534, the photographed casing plate and modification markings, and [Auxiliary machinery](../auxiliary-machinery/) for generator nameplate readings and provisional engine identification. General engine-family descriptions should not be treated as specifications for the installed machinery.
+Skrei’s main engines have been identified by the project contributor as Napier Deltic T18-37K. See [Main engines]({{< relref "/docs/main-engines/_index.md" >}}) for the recorded number 534, the photographed casing plate and modification markings, and [Auxiliary machinery]({{< relref "/docs/project/auxiliary-machinery/_index.md" >}}) for generator nameplate readings and provisional engine identification. General engine-family descriptions should not be treated as specifications for the installed machinery.
 
 ## Reported class machinery specifications
 
@@ -31,7 +31,7 @@ The Norwegian Wikipedia article’s [specifications section](https://no.wikipedi
 | Alternative generators | Two Onan self-regulating single-phase AC generators, each 15 kVA, 220 V, 60 Hz; presented as an alternative class fit. |
 | Compressors | Two Wilhelm Poppe GmbH WP 2340 S units, each reported at 127.4 l/min at 30.3 bar. |
 
-The photographed HANSA plate aboard Skrei reads **26 kVA**, differing from the class reference’s **27.4 kVA**. Retain both with their sources until resolved; the Onan alternative does not establish that Onan equipment is installed aboard Skrei. See [main-engine records](../main-engines/), [auxiliary machinery](../auxiliary-machinery/) and the [compressed-air survey](../compressed-air/) for equipment-specific verification.
+The photographed HANSA plate aboard Skrei reads **26 kVA**, differing from the class reference’s **27.4 kVA**. Retain both with their sources until resolved; the Onan alternative does not establish that Onan equipment is installed aboard Skrei. See [main-engine records]({{< relref "/docs/main-engines/_index.md" >}}), [auxiliary machinery]({{< relref "/docs/project/auxiliary-machinery/_index.md" >}}) and the [compressed-air survey]({{< relref "/docs/project/compressed-air/_index.md" >}}) for equipment-specific verification.
 
 ## Further references
 

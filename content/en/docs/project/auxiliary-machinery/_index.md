@@ -1,6 +1,7 @@
 ---
 title: "Auxiliary machinery"
 weight: 25
+aliases: ["/docs/auxiliary-machinery/", "/docs/project/scope/auxiliary-machinery/"]
 description: "Photographic identification of auxiliary engines, HANSA generators and associated machinery."
 ---
 
@@ -49,11 +50,11 @@ The reference also gives an alternative fit of **two Onan self-regulating single
 
 ## Associated machinery
 
-The auxiliary engines use compressed-air starting, as confirmed by the project contributor on 3 November 2026. Include every auxiliary engine in the [compressed-air system survey and verification](../compressed-air/), together with the main engines. Trace how the first auxiliary engine receives starting air when no engine is running, and establish how a depleted air system can be replenished.
+The auxiliary engines use compressed-air starting, as confirmed by the project contributor on 3 November 2026. Include every auxiliary engine in the [compressed-air system survey and verification]({{< relref "/docs/project/compressed-air/_index.md" >}}), together with the main engines. Trace how the first auxiliary engine receives starting air when no engine is running, and establish how a depleted air system can be replenished.
 
 A belt-driven machine mounted above the generator in IMG_2410 appears to be an air compressor. Its manufacturer, model, rated pressure and capacity remain unconfirmed pending a readable plate and tracing of its connections.
 
-The same class reference lists **two Wilhelm Poppe GmbH WP 2340 S compressors**, reporting **127.4 l/min at 30.3 bar** for each. Use this as an identification lead for the [compressed-air survey](../compressed-air/#reported-class-compressor-specification), not as confirmation of the photographed machine’s identity or permissible operating pressure.
+The same class reference lists **two Wilhelm Poppe GmbH WP 2340 S compressors**, reporting **127.4 l/min at 30.3 bar** for each. Use this as an identification lead for the [compressed-air survey]({{< relref "/docs/project/compressed-air/_index.md" >}}#reported-class-compressor-specification), not as confirmation of the photographed machine’s identity or permissible operating pressure.
 
 ![Lower auxiliary machinery installation and adjacent pump](/images/skrei/IMG_2411.jpg)
 
@@ -67,4 +68,4 @@ The same class reference lists **two Wilhelm Poppe GmbH WP 2340 S compressors**,
 - Obtain matching manuals, wiring diagrams, parts lists and service records.
 - Establish operating hours, last use, overhaul history, preservation measures and current condition.
 
-Use these records to develop the auxiliary-engine, electrical and compressed-air work packages in the [engine department work scope](../project/engine-department/), following the [baseline and verification plan](../project/planning-and-verification/).
+Use these records to develop the auxiliary-engine, electrical and compressed-air work packages in the [engine department work scope]({{< relref "/docs/project/engine-department.md" >}}), following the [baseline and verification plan]({{< relref "/docs/project/planning-and-verification.md" >}}).
