@@ -18,6 +18,7 @@ This is the English documentation for the restoration of the engine department o
 - [Restoration project](project/): engine department work scope, baseline survey, planning and verification.
 - [Main engines](main-engines/): Napier Deltic T18-37K identification and machinery records.
 - [Napier Deltic T18-37K manual]({{< relref "/docs/T18_37K/_index.md" >}}): illustrated course notes and original PDF scans.
+- [Electrical installation]({{< relref "/docs/electrical-installation/index.md" >}}): Chapter 5 of the Tjeld handbook in English, with original Norwegian drawings.
 - [Some photos November 2026](images/): photographs of Skrei before restoration.
 - [Napier heritage links](links/): English-language research and reference material.
 - [Other Deltic restoration projects](other-restoration-projects/): engine rebuilds, related marine projects and links to their records.
