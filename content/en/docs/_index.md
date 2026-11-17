@@ -26,7 +26,7 @@ This is the English documentation for the restoration of the engine department o
 
 ## Understanding the Napier Deltic
 
-These new illustrations were created with AI assistance from the descriptions and specifications in the [Napier Deltic T18-37K technical manual]({{< relref "/docs/T18_37K/T1837K.md" >}}). They explain the engine's triangular layout and opposed-piston two-stroke cycle. They are simplified educational schematics, not original Napier drawings or maintenance instructions.
+These schematics illustrate the crankshaft phasing and opposed-piston two-stroke cycle of the Napier Deltic T18-37K. They draw on the handbook and the [1967 Napier course notes]({{< relref "/docs/T18_37K/T1837K.md" >}}).
 
 ### One-way airflow through each cylinder
 
@@ -34,13 +34,11 @@ The Deltic uses **uniflow scavenging**: blower air enters through inlet ports ne
 
 Viewed from the free end, the inlet and exhaust ends alternate around the triangle: **inlet / exhaust / inlet / exhaust / inlet / exhaust**. The arrangement repeats after a 120° rotation. Each corner crankshaft serves an inlet piston in one adjacent bank and an exhaust piston in the other.
 
-![Deltic No. 1 cylinders at one shared crankshaft instant, viewed from the free end: B1 near minimum combustion-space volume, A1 compressing, and C1 expanding. Upper crankshafts rotate clockwise and the lower one anticlockwise. All inlet and exhaust ports are closed at this instant.](/images/deltic/t18-37k-layout-v4.png)
+![Free-end view of cylinders A1, B1 and C1 at C1 exhaust top dead centre. Both upper crankshafts turn clockwise, the lower crankshaft turns anticlockwise, and all six port belts are closed.](/images/deltic/t18-37k-phasing-verified.svg)
 
-*Engine layout: three banks of six cylinders, with two opposed pistons in each cylinder. I marks inlet ports supplied by the blower; E marks exhaust ports connected to the manifold. This view shows cylinders A1, B1 and C1 at the same instant, with B1 near the end of compression. All six ports shown are closed, so no airflow arrows are drawn. Connecting rods and phasing gears are omitted.*
+*Crankshaft phasing at C1 exhaust top dead centre (TDC). Each corner shows the shared crankpin for the two adjacent cylinders.*
 
-The gears fix the relative crankshaft angles and therefore the piston sequence. At the chosen instant, B1's exhaust piston is 10° after its own top dead centre (TDC), and its inlet piston is 10° before its own TDC. A1 is still compressing and C1 is expanding. These angles follow the manual's No. 1 cylinder phasing reference: C1 exhaust at TDC, B1 exhaust 40° before TDC, and A1 exhaust 80° before TDC, with the exhaust piston in each cylinder leading its inlet piston by 20°.
-
-The picture uses a simplified harmonic projection for piston travel, rather than an exact connecting-rod calculation. It illustrates the documented phase relationships near B1's minimum chamber volume, not the precise fuel-injection instant. The other five cylinders along each bank are at different stages; an entire bank does not reach compression together.
+The gears fix the relative crankshaft angles and therefore the piston sequence. At the instant shown, the exhaust pistons in B1 and A1 are 40° and 80° before their own TDC, respectively. In each cylinder, the inlet piston reaches TDC 20° after the exhaust piston. The other five cylinders along each bank are at different stages of the cycle.
 
 In sectional drawings, the larger bulb-shaped passages represent the exhaust manifolds, which collect gas along each bank; the smaller passages represent inlet air ducts. The diagram above uses simple port symbols rather than reproducing those manifold shapes.
 
@@ -50,6 +48,6 @@ The engine has no separate intake stroke, so it depends on the blower to supply 
 
 The exhaust piston leads the inlet piston by **20° of crankshaft rotation**. The exhaust ports open first, allowing cylinder pressure to fall before the inlet ports open. While both are open, blower air sweeps through the cylinder. The exhaust ports also close first; the inlet ports remain open briefly afterwards, allowing the blower to continue charging the cylinder. This sequence is described in the technical manual's [phasing and timing section]({{< relref "/docs/T18_37K/T1837K.md" >}}#figure-4-2).
 
-![Four stages of the opposed-piston two-stroke cycle, with identical piston dimensions in every panel: compression, injection and expansion, exhaust release, and scavenging through cylinder-wall ports uncovered by the piston crowns.](/images/deltic/t18-37k-cycle-v3.png)
+![Five stages of the opposed-piston cycle: expansion, exhaust release, scavenging, charging and compression. The timing chart shows the exhaust ports opening and closing ahead of the inlet ports.](/images/deltic/t18-37k-cycle-verified.svg)
 
-*Operating cycle: one representative cylinder is drawn with its inlet on the left and exhaust on the right. Rotate this view to match the corresponding bank in the triangular layout. Piston dimensions stay constant; the four panels show selected stages rather than a complete timing diagram.*
+*Port timing through one revolution, measured from exhaust-piston TDC. Both sources show the exhaust ports opening at 112° and closing at 248°. The handbook shows the inlet ports open from 145° to 255°, while the 1967 Napier course notes give 146.5° to 253.5°.*
