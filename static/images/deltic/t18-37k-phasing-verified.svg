@@ -1,47 +1,127 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="910" viewBox="0 0 1400 910" role="img" aria-labelledby="title desc"><title id="title">Crankshaft phasing at C1 exhaust TDC</title><desc id="desc">Free-end view of the three No. 1 cylinders, their shared crankpins and the six piston angles.</desc><defs><marker id="rotation" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#112d45"/></marker><marker id="air" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#006e68"/></marker><marker id="exhaust" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b83d23"/></marker></defs><rect x="0" y="0" width="1400" height="910" fill="#fcfdfe" stroke="none" stroke-width="1"/><g font-family="Helvetica, Arial, sans-serif"><text x="48" y="70" font-size="49" fill="#112d45" font-weight="700" text-anchor="start">Napier Deltic T18-37K</text>
-<text x="48" y="117" font-size="29" fill="#112d45" font-weight="400" text-anchor="start">Crankshaft phasing at C1 exhaust TDC</text>
-<text x="48" y="152" font-size="23" fill="#486174" font-weight="400" text-anchor="start">No. 1 cylinders, viewed from the free end</text>
-<g transform="translate(170 255) rotate(0)"><rect x="100" y="-32" width="380" height="64" fill="#e9eff3" stroke="none" stroke-width="1"/><rect x="150.52671967171614" y="-31" width="79" height="62" fill="#d3dee6" stroke="#112d45" stroke-width="2"/><line x1="221.52671967171614" y1="-28" x2="221.52671967171614" y2="28" stroke="#112d45" stroke-width="2" /><circle cx="182.52671967171614" cy="0" r="7" fill="white" stroke="#112d45" stroke-width="2"/><rect x="360.76791568751" y="-31" width="79" height="62" fill="#d3dee6" stroke="#112d45" stroke-width="2"/><line x1="368.76791568751" y1="-28" x2="368.76791568751" y2="28" stroke="#112d45" stroke-width="2" /><circle cx="407.76791568751" cy="0" r="7" fill="white" stroke="#112d45" stroke-width="2"/><line x1="26.045511066045254" y1="-21.854778729342335" x2="182.52671967171614" y2="0" stroke="#112d45" stroke-width="8" /><circle cx="26.045511066045254" cy="-21.854778729342335" r="8" fill="white" stroke="#112d45" stroke-width="2"/><line x1="563.0" y1="29.444863728670914" x2="407.76791568751" y2="0" stroke="#112d45" stroke-width="8" /><circle cx="563.0" cy="29.444863728670914" r="8" fill="white" stroke="#112d45" stroke-width="2"/><line x1="189.08657045374724" y1="-32" x2="189.08657045374724" y2="-48" stroke="#b83d23" stroke-width="5" /><line x1="189.08657045374724" y1="32" x2="189.08657045374724" y2="48" stroke="#b83d23" stroke-width="5" /><line x1="396.9756770185171" y1="-32" x2="396.9756770185171" y2="-48" stroke="#006e68" stroke-width="5" /><line x1="396.9756770185171" y1="32" x2="396.9756770185171" y2="48" stroke="#006e68" stroke-width="5" /></g>
-<g transform="translate(170 255) rotate(60)"><rect x="100" y="-32" width="380" height="64" fill="#e9eff3" stroke="none" stroke-width="1"/><rect x="116.50728817986345" y="-31" width="79" height="62" fill="#d3dee6" stroke="#112d45" stroke-width="2"/><line x1="187.50728817986345" y1="-28" x2="187.50728817986345" y2="28" stroke="#112d45" stroke-width="2" /><circle cx="148.50728817986345" cy="0" r="7" fill="white" stroke="#112d45" stroke-width="2"/><rect x="372.6846357387853" y="-31" width="79" height="62" fill="#d3dee6" stroke="#112d45" stroke-width="2"/><line x1="380.6846357387853" y1="-28" x2="380.6846357387853" y2="28" stroke="#112d45" stroke-width="2" /><circle cx="419.6846357387853" cy="0" r="7" fill="white" stroke="#112d45" stroke-width="2"/><line x1="-5.90403804067563" y1="-33.48346360241507" x2="148.50728817986345" y2="0" stroke="#112d45" stroke-width="8" /><circle cx="-5.90403804067563" cy="-33.48346360241507" r="8" fill="white" stroke="#112d45" stroke-width="2"/><line x1="574.0959619593243" y1="-33.48346360241507" x2="419.6846357387853" y2="0" stroke="#112d45" stroke-width="8" /><circle cx="574.0959619593243" cy="-33.48346360241507" r="8" fill="white" stroke="#112d45" stroke-width="2"/><line x1="183.0243229814829" y1="-32" x2="183.0243229814829" y2="-48" stroke="#006e68" stroke-width="5" /><line x1="183.0243229814829" y1="32" x2="183.0243229814829" y2="48" stroke="#006e68" stroke-width="5" /><line x1="390.91342954625276" y1="-32" x2="390.91342954625276" y2="-48" stroke="#b83d23" stroke-width="5" /><line x1="390.91342954625276" y1="32" x2="390.91342954625276" y2="48" stroke="#b83d23" stroke-width="5" /></g>
-<g transform="translate(750 255) rotate(120)"><rect x="100" y="-32" width="380" height="64" fill="#e9eff3" stroke="none" stroke-width="1"/><rect x="160.0" y="-31" width="79" height="62" fill="#d3dee6" stroke="#112d45" stroke-width="2"/><line x1="231.0" y1="-28" x2="231.0" y2="28" stroke="#112d45" stroke-width="2" /><circle cx="192.0" cy="0" r="7" fill="white" stroke="#112d45" stroke-width="2"/><rect x="343.4789633451736" y="-31" width="79" height="62" fill="#d3dee6" stroke="#112d45" stroke-width="2"/><line x1="351.4789633451736" y1="-28" x2="351.4789633451736" y2="28" stroke="#112d45" stroke-width="2" /><circle cx="390.4789633451736" cy="0" r="7" fill="white" stroke="#112d45" stroke-width="2"/><line x1="34.0" y1="0.0" x2="192.0" y2="0" stroke="#112d45" stroke-width="8" /><circle cx="34.0" cy="0.0" r="8" fill="white" stroke="#112d45" stroke-width="2"/><line x1="548.0504508932792" y1="-11.628684873072736" x2="390.4789633451736" y2="0" stroke="#112d45" stroke-width="8" /><circle cx="548.0504508932792" cy="-11.628684873072736" r="8" fill="white" stroke="#112d45" stroke-width="2"/><line x1="189.08657045374724" y1="-32" x2="189.08657045374724" y2="-48" stroke="#b83d23" stroke-width="5" /><line x1="189.08657045374724" y1="32" x2="189.08657045374724" y2="48" stroke="#b83d23" stroke-width="5" /><line x1="396.9756770185171" y1="-32" x2="396.9756770185171" y2="-48" stroke="#006e68" stroke-width="5" /><line x1="396.9756770185171" y1="32" x2="396.9756770185171" y2="48" stroke="#006e68" stroke-width="5" /></g>
-<line x1="170" y1="255" x2="196.04551106604526" y2="233.14522127065766" stroke="#486174" stroke-width="10" />
-<circle cx="170" cy="255" r="9" fill="#112d45" stroke="#112d45" stroke-width="2"/>
-<circle cx="196.04551106604526" cy="233.14522127065766" r="8" fill="white" stroke="#112d45" stroke-width="2"/>
-<path d="M 170 207 A 48 48 0 0 1 218 255" fill="none" stroke="#112d45" stroke-width="3" marker-end="url(#rotation)"/>
-<text x="170" y="189" font-size="23" fill="#112d45" font-weight="700" text-anchor="middle">AB</text>
-<line x1="750" y1="255" x2="733.0" y2="284.4448637286709" stroke="#486174" stroke-width="10" />
-<circle cx="750" cy="255" r="9" fill="#112d45" stroke="#112d45" stroke-width="2"/>
-<circle cx="733.0" cy="284.4448637286709" r="8" fill="white" stroke="#112d45" stroke-width="2"/>
-<path d="M 750 207 A 48 48 0 0 1 798 255" fill="none" stroke="#112d45" stroke-width="3" marker-end="url(#rotation)"/>
-<text x="750" y="189" font-size="23" fill="#112d45" font-weight="700" text-anchor="middle">BC</text>
-<line x1="460" y1="757.2947341949744" x2="486.04551106604526" y2="735.439955465632" stroke="#486174" stroke-width="10" />
-<circle cx="460" cy="757.2947341949744" r="9" fill="#112d45" stroke="#112d45" stroke-width="2"/>
-<circle cx="486.04551106604526" cy="735.439955465632" r="8" fill="white" stroke="#112d45" stroke-width="2"/>
-<path d="M 460 709.2947341949744 A 48 48 0 0 0 412 757.2947341949744" fill="none" stroke="#112d45" stroke-width="3" marker-end="url(#rotation)"/>
-<text x="460" y="835.2947341949744" font-size="23" fill="#112d45" font-weight="700" text-anchor="middle">CA</text>
-<text x="460" y="334" font-size="28" fill="#112d45" font-weight="700" text-anchor="middle">B1</text>
-<text x="239" y="535" font-size="28" fill="#112d45" font-weight="700" text-anchor="middle">A1</text>
-<text x="683" y="535" font-size="28" fill="#112d45" font-weight="700" text-anchor="middle">C1</text>
-<line x1="857" y1="210" x2="857" y2="795" stroke="#c7d5de" stroke-width="2" />
-<text x="900" y="245" font-size="31" fill="#112d45" font-weight="700" text-anchor="start">Piston positions</text>
-<text x="900" y="282" font-size="22" fill="#486174" font-weight="400" text-anchor="start">Angles before each piston’s own TDC</text>
-<text x="900" y="345" font-size="22" fill="#112d45" font-weight="700" text-anchor="start">Cylinder</text>
-<text x="1070" y="345" font-size="22" fill="#b83d23" font-weight="700" text-anchor="start">Exhaust</text>
-<text x="1230" y="345" font-size="22" fill="#006e68" font-weight="700" text-anchor="start">Inlet</text>
-<line x1="900" y1="363" x2="1340" y2="363" stroke="#c7d5de" stroke-width="2" />
-<text x="900" y="395" font-size="22" fill="#112d45" font-weight="700" text-anchor="start">A1</text>
-<text x="1070" y="395" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">80°</text>
-<text x="1230" y="395" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">100°</text>
-<line x1="900" y1="417" x2="1340" y2="417" stroke="#c7d5de" stroke-width="2" />
-<text x="900" y="449" font-size="22" fill="#112d45" font-weight="700" text-anchor="start">B1</text>
-<text x="1070" y="449" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">40°</text>
-<text x="1230" y="449" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">60°</text>
-<line x1="900" y1="471" x2="1340" y2="471" stroke="#c7d5de" stroke-width="2" />
-<text x="900" y="503" font-size="22" fill="#112d45" font-weight="700" text-anchor="start">C1</text>
-<text x="1070" y="503" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">0° (TDC)</text>
-<text x="1230" y="503" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">20°</text>
-<text x="900" y="614" font-size="22" fill="#112d45" font-weight="700" text-anchor="start">Exhaust reaches TDC 20° before inlet.</text>
-<text x="900" y="653" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">Both upper shafts turn clockwise.</text>
-<text x="900" y="685" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">The lower shaft turns anticlockwise.</text>
-<text x="900" y="728" font-size="22" fill="#112d45" font-weight="400" text-anchor="start">All six port belts are closed here.</text>
-<text x="48" y="875" font-size="20" fill="#486174" font-weight="400" text-anchor="start">Geometry schematic. Source: handbook Fig. 1.8 and Napier course notes Fig. 4.2.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="title description">
+<title id="title">Napier Deltic T18-37K crankshaft phasing</title>
+<desc id="description">Free-end view at C1 exhaust top dead centre. A1 lies on the left, B1 across the top, C1 on the right. Each crankpin is shared by two rods. All six piston angles follow handbook Figure 1.8. Linear dimensions are schematic.</desc>
+<defs>
+  <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8 Z" fill="#183448"/></marker>
+  <style>
+    text {font-family:Helvetica,Arial,sans-serif;fill:#183448}
+    .muted {fill:#456072}
+    .axis {stroke:#9aafbb;stroke-width:1.3;stroke-dasharray:5 6;fill:none}
+    .liner {fill:#f0f4f6;stroke:#a0b1bc;stroke-width:1.5}
+    .rod {fill:none;stroke:#617786;stroke-width:9;stroke-linecap:round}
+    .piston {fill:#dfe8ed;stroke:#617786;stroke-width:1.7}
+    .E {fill:#983e28}
+    .I {fill:#006b65}
+    .crown.E {stroke:#983e28}
+    .crown.I {stroke:#006b65}
+    .crown {stroke-width:4}
+    .pin {fill:#fff;stroke:#183448;stroke-width:2.6}
+    .wrist {fill:#fff;stroke:#617786;stroke-width:2}
+    .throw {fill:none;stroke:#183448;stroke-width:14;stroke-linecap:round}
+    .rotation {fill:none;stroke:#183448;stroke-width:2;marker-end:url(#arrow)}
+    .rule {stroke:#cad6dd;stroke-width:1}
+  </style>
+</defs>
+<rect width="1280" height="900" fill="#fff"/>
+<text x="52" y="66" font-size="39" font-weight="700">Napier Deltic T18-37K</text>
+<text x="52" y="103" font-size="22" class="muted">Crankshaft phasing at C1 exhaust TDC · Free-end view</text>
+<path d="M52 127 H1228 M825 161 V799 M52 837 H1228" class="rule"/>
+
+<g id="bank-A1" transform="translate(140 215) rotate(60)">
+<rect x="116" y="-34" width="368" height="68" rx="2" class="liner"/>
+<path d="M 0 0 L 600 0" class="axis"/>
+<rect x="130.625" y="-28" width="89" height="56" class="piston"/>
+<path d="M -8.3351 -47.2708 L 173.625 0" class="rod"/>
+<circle cx="173.625" cy="0" r="8" class="wrist"/>
+<path d="M 219.625 -27 L 219.625 27" class="crown I"/>
+<text x="173.625" y="-13" transform="rotate(-60 173.625 -13)" text-anchor="middle" class="I" font-size="14" font-weight="700">I</text>
+<rect x="363.7048" y="-28" width="89" height="56" class="piston"/>
+<path d="M 591.6649 -47.2708 L 409.7048 0" class="rod"/>
+<circle cx="409.7048" cy="0" r="8" class="wrist"/>
+<path d="M 363.7048 -27 L 363.7048 27" class="crown E"/>
+<text x="409.7048" y="-13" transform="rotate(-60 409.7048 -13)" text-anchor="middle" class="E" font-size="14" font-weight="700">E</text>
+</g>
+<g id="bank-B1" transform="translate(140 215) rotate(0)">
+<rect x="116" y="-34" width="368" height="68" rx="2" class="liner"/>
+<path d="M 0 0 L 600 0" class="axis"/>
+<rect x="179.2211" y="-28" width="89" height="56" class="piston"/>
+<path d="M 36.7701 -30.8538 L 222.2211 0" class="rod"/>
+<circle cx="222.2211" cy="0" r="8" class="wrist"/>
+<path d="M 268.2211 -27 L 268.2211 27" class="crown E"/>
+<text x="222.2211" y="-13" transform="rotate(0 222.2211 -13)" text-anchor="middle" class="E" font-size="14" font-weight="700">E</text>
+<rect x="346.6533" y="-28" width="89" height="56" class="piston"/>
+<path d="M 576 41.5692 L 392.6533 0" class="rod"/>
+<circle cx="392.6533" cy="0" r="8" class="wrist"/>
+<path d="M 346.6533 -27 L 346.6533 27" class="crown I"/>
+<text x="392.6533" y="-13" transform="rotate(0 392.6533 -13)" text-anchor="middle" class="I" font-size="14" font-weight="700">I</text>
+</g>
+<g id="bank-C1" transform="translate(740 215) rotate(120)">
+<rect x="116" y="-34" width="368" height="68" rx="2" class="liner"/>
+<path d="M 0 0 L 600 0" class="axis"/>
+<rect x="193" y="-28" width="89" height="56" class="piston"/>
+<path d="M 48 0 L 236 0" class="rod"/>
+<circle cx="236" cy="0" r="8" class="wrist"/>
+<path d="M 282 -27 L 282 27" class="crown E"/>
+<text x="236" y="-13" transform="rotate(-120 236 -13)" text-anchor="middle" class="E" font-size="14" font-weight="700">E</text>
+<rect x="321.6129" y="-28" width="89" height="56" class="piston"/>
+<path d="M 554.8948 -16.417 L 367.6129 0" class="rod"/>
+<circle cx="367.6129" cy="0" r="8" class="wrist"/>
+<path d="M 321.6129 -27 L 321.6129 27" class="crown I"/>
+<text x="367.6129" y="-13" transform="rotate(-120 367.6129 -13)" text-anchor="middle" class="I" font-size="14" font-weight="700">I</text>
+</g>
+<g id="shaft-AB">
+<path d="M 140 215 L 176.7701 184.1462" class="throw"/>
+<circle cx="140" cy="215" r="11" class="pin"/>
+<circle cx="140" cy="215" r="3" class="muted"/>
+<circle cx="176.7701" cy="184.1462" r="8" class="pin"/>
+<path d="M 79.2321 209.6835 A61 61 0 0 1 134.6835 154.2321" class="rotation"/>
+</g>
+<g id="shaft-BC">
+<path d="M 740 215 L 716 256.5692" class="throw"/>
+<circle cx="740" cy="215" r="11" class="pin"/>
+<circle cx="740" cy="215" r="3" class="muted"/>
+<circle cx="716" cy="256.5692" r="8" class="pin"/>
+<path d="M 750.5925 154.9267 A61 61 0 0 1 801 215" class="rotation"/>
+</g>
+<g id="shaft-CA">
+<path d="M 440 734.6152 L 476.7701 703.7614" class="throw"/>
+<circle cx="440" cy="734.6152" r="11" class="pin"/>
+<circle cx="440" cy="734.6152" r="3" class="muted"/>
+<circle cx="476.7701" cy="703.7614" r="8" class="pin"/>
+<path d="M 382.6788 755.4785 A61 61 0 0 0 450.5925 794.6885" class="rotation"/>
+</g>
+
+<g font-weight="700">
+  <text x="155" y="163" font-size="19">AB</text>
+  <text x="706" y="163" font-size="19">BC</text>
+  <text x="482" y="766" font-size="19">CA</text>
+  <text x="440" y="164" text-anchor="middle" font-size="24">B1</text>
+  <text x="215" y="498" text-anchor="middle" font-size="24">A1</text>
+  <text x="665" y="498" text-anchor="middle" font-size="24">C1</text>
+</g>
+<g transform="translate(866 0)">
+  <text y="194" font-size="26" font-weight="700">Manual-verified phasing</text>
+  <text y="225" font-size="16" class="muted">Angles before each piston’s own TDC</text>
+  <g font-size="17" font-weight="700">
+    <text y="272">Bank</text><text x="95" y="272" class="E">E · Exhaust</text><text x="241" y="272" class="I">I · Inlet</text>
+  </g>
+  <path d="M0 283 H350 M0 327 H350 M0 371 H350 M0 415 H350" class="rule"/>
+  <g font-size="19">
+    <text y="311">A1</text><text x="95" y="311">80° · CA</text><text x="241" y="311">100° · AB</text>
+    <text y="355">B1</text><text x="95" y="355">40° · AB</text><text x="241" y="355">60° · BC</text>
+    <text y="399">C1</text><text x="95" y="399">0° · BC</text><text x="241" y="399">20° · CA</text>
+  </g>
+  <text y="456" font-size="17" font-weight="700">C1 is near the end of compression.</text>
+  <text y="483" font-size="16">Exhaust is at TDC. Inlet is still approaching.</text>
+  <text y="520" font-size="16">AB and BC rotate clockwise.</text>
+  <text y="545" font-size="16">CA rotates counterclockwise.</text>
+  <text y="570" font-size="16">One shared crankpin per shaft is shown.</text>
+  <path d="M0 601 H350" class="rule"/>
+  <text y="642" font-size="24" font-weight="700">Schematic dimensions</text>
+  <text y="675" font-size="16" class="muted">Piston positions use slider-crank geometry</text>
+  <text y="698" font-size="16" class="muted">with proportions estimated from Fig. 1.8.</text>
+  <text y="731" font-size="16" class="muted">Throw, rod length, piston profiles and</text>
+  <text y="754" font-size="16" class="muted">crown clearances are illustrative.</text>
+</g>
+<text x="52" y="870" font-size="15" class="muted">Deltic handbook · Article 1.5, Figs. 1.8–1.9 · Crankshaft assignments and phasing datum cross-checked in Chapter 15, pp. 17–18.</text>
+</svg>
