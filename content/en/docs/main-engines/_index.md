@@ -47,6 +47,58 @@ The same source mentions an **18° V-drive**, but places that statement beneath 
 
 *IMG_2406: access between the main engines.*
 
+## Deltic reference images
+
+### Engine views
+
+[![Napier Deltic engine, right-side view](/images/deltic/napier_deltic_engine_left.jpg)](/images/deltic/napier_deltic_engine_left.jpg)
+
+*Napier Deltic engine, right-side view*
+
+[![Napier Deltic engine, left-side view](/images/deltic/napier_deltic_engine_right.jpg)](/images/deltic/napier_deltic_engine_right.jpg)
+
+*Napier Deltic engine, left-side view*
+
+### Maintenance handbook illustrations
+
+[![Cylinder cross-section](/images/deltic/deltic_vedlikeholds_handbok_cylinder_cross_section.jpg)](/images/deltic/deltic_vedlikeholds_handbok_cylinder_cross_section.jpg)
+
+*Cylinder cross-section*
+
+[![Pistons and connecting rods](/images/deltic/deltic_vedlikeholds_handbok_pistons_and_connecting_rods.jpg)](/images/deltic/deltic_vedlikeholds_handbok_pistons_and_connecting_rods.jpg)
+
+*Pistons and connecting rods*
+
+[![Engine gear train](/images/deltic/deltic_vedlikeholds_handbok_engine_gear_train.jpg)](/images/deltic/deltic_vedlikeholds_handbok_engine_gear_train.jpg)
+
+*Engine gear train*
+
+[![Phasing gears](/images/deltic/deltic_vedlikeholds_handbok_phasing_gears.jpg)](/images/deltic/deltic_vedlikeholds_handbok_phasing_gears.jpg)
+
+*Phasing gears*
+
+[![Port timing and crankshaft phasing](/images/deltic/deltic_vedlikeholds_handbok_port_timing_and_crankshaft_phasing.jpg)](/images/deltic/deltic_vedlikeholds_handbok_port_timing_and_crankshaft_phasing.jpg)
+
+*Port timing and crankshaft phasing*
+
+### Manual front pages
+
+[![Deltic T18-37K maintenance handbook, Norwegian (Publication 405)](/images/deltic/deltic_t18_37k_vedlikeholds_handbok_pub405.jpg)](/images/deltic/deltic_t18_37k_vedlikeholds_handbok_pub405.jpg)
+
+*Deltic T18-37K maintenance handbook, Norwegian (Publication 405)*
+
+[![Deltic T18-37K Series III maintenance handbook, Norwegian (Publication 501)](/images/deltic/deltic_t18_37k_serie_iii_vedlikeholds_handbok_pub501.jpg)](/images/deltic/deltic_t18_37k_serie_iii_vedlikeholds_handbok_pub501.jpg)
+
+*Deltic T18-37K Series III maintenance handbook, Norwegian (Publication 501)*
+
+[![Deltic T18-37K Series III maintenance manual, English (Publication 501)](/images/deltic/deltic_t18_37k_series_iii_maintenance_manual_pub501.jpg)](/images/deltic/deltic_t18_37k_series_iii_maintenance_manual_pub501.jpg)
+
+*Deltic T18-37K Series III maintenance manual, English (Publication 501)*
+
+[![Napier VE gear handbook (Publication 244)](/images/deltic/napier_ve_gear_handbok_pub244.jpg)](/images/deltic/napier_ve_gear_handbok_pub244.jpg)
+
+*Napier VE gear handbook (Publication 244)*
+
 ## Records to complete for each engine
 
 The main engines use compressed-air starting, as confirmed by the project contributor on 3 November 2026. Verify each engine’s air supply, starting equipment and controls using the [compressed-air system checklist]({{< relref "/docs/project/compressed-air/_index.md" >}}); the installed starting arrangement and operating limits remain to be documented.

@@ -6,6 +6,16 @@ description: "English translation of Chapter 5 of the Tjeld handbook, with origi
 
 This page translates Chapter 5, *Elektrisk anlegg*, of the Tjeld handbook in the HaandbokTjeld project. It describes the installation as documented in the handbook.
 
+## Perkins diesel generator and handbook
+
+[![Perkins diesel generator, side view](/images/perkins/diesel_generator_side.jpg)](/images/perkins/diesel_generator_side.jpg)
+
+*Perkins diesel generator, side view*
+
+[![Perkins diesel engine handbook front page, covering the P3.144, P4 and P6](/images/perkins/perkins_handbok_p3_144_p4_p6_dieselmotorer.jpg)](/images/perkins/perkins_handbok_p3_144_p4_p6_dieselmotorer.jpg)
+
+*Perkins diesel engine handbook front page, covering the P3.144, P4 and P6*
+
 ## 5.1 Electrical installation
 
 The [chapter contents on page 105](scans/side-105.jpg) list sections 5.1.1–5.1.7 and the [drawings](#drawings). The [scan of page 106](scans/side-106.jpg) is also available.
